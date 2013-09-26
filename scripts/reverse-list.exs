@@ -1,6 +1,7 @@
 defmodule Hack do
-	def reverse_list([h|t], acc) do
-		Hack.reverse_list(t, List.concat([h], acc))
+	def reverse_list([h|t], acc // []) do
+		#Hack.reverse_list(t, List.concat([h], acc))
+		Hack.reverse_list(t, [h | acc])
 	end
 
 	def reverse_list([], acc) do
