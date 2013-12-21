@@ -1,0 +1,3 @@
+/Users/dan/Dropbox/hacking/elixir/listen/_build/shared/lib/listen/ebin/Elixir.Listen.beam	Elixir.Listen	lib/listen.ex	Elixir.Listen
+/Users/dan/Dropbox/hacking/elixir/listen/_build/shared/lib/listen/ebin/Elixir.Listen.Prism.CallInfo.beam	Elixir.Listen.Prism.CallInfo	lib/listen/prism.ex	Elixir.CallInfo	Elixir.GenFSM.Behaviour	Elixir.Kernel	Elixir.Listen.Prism	Elixir.Module	Elixir.Record	Elixir.Record.DSL
+/Users/dan/Dropbox/hacking/elixir/listen/_build/shared/lib/listen/ebin/Elixir.Listen.Prism.beam	Elixir.Listen.Prism	lib/listen/prism.ex	Elixir.CallInfo	Elixir.GenFSM.Behaviour	Elixir.IO	Elixir.Kernel	Elixir.Listen.Prism	Elixir.Listen.Prism.CallInfo	Elixir.Module	Elixir.Record	Elixir.Record.DSL	Elixir.String.Chars	gen_fsm

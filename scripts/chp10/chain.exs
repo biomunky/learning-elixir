@@ -8,7 +8,7 @@ defmodule Chain do
         next_pid <- n + 1
       end
   end
-  
+
   def create_processes(n) do
     last = Enum.reduce 1..n, self,
       fn(_, send_to) ->
